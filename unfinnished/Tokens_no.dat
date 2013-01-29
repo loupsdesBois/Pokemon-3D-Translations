@@ -87,106 +87,106 @@ intro_reaction_weird,*Hm det der er et~rart navn.
 intro_reaction_known,*Hm jeg er sikker på at jeg~hørt dette navnet før.
 intro_reaction_same,Hei vi fikk~samme navn.*Mitt navn er også~
 intro_reaction_base,Okei! Så navnet ditt er~
-
----------------------------------
-
 options_screen_title,Alternativer
-options_screen_not_saved_warning er alternativer som ikke lagret ennå,bla ned og velg "Lagre alternativer."
-options_screen_textspeed,TextSpeed
+options_screen_not_saved_warning,Noen av alternativene er ikke lagret ennå, bla ned og velg "Lagre alternativer."
+options_screen_textspeed,Tekst hastighet
 options_screen_textspeed_description_1,Hastigheten tekstboksen dukker opp og
 options_screen_textspeed_description_2,viser teksten.
 options_screen_fov,FOV
-options_screen_fov_description_1,The synsfelt. Jo høyere verdien er,
+options_screen_fov_description_1,Synsfelt. Jo høyere verdien er,
 options_screen_fov_description_2,jo mer kan du se.
 options_screen_fov_description_3,Advarsel: For stor verdi kan føre til forsinkelser i større kart.
-options_screen_mousespeed,MouseSpeed
-options_screen_mousespeed_description_1 setter Mousespeed hastigheten der
-options_screen_mousespeed_description_2 kan mus rotere visningen.
-options_screen_volume,Volume
+options_screen_mousespeed,Mus hastighet
+options_screen_mousespeed_description_1,setter muse hastigheten der
+options_screen_mousespeed_description_2,musa roterer visningen.
+options_screen_volume,Volum
 options_screen_volume_description_1,Volumet av bakgrunnsmusikken.
-options_screen_volume_description_2,dette er innstillinger for alle unntatt stater.
-options_screen_renderdistance_tiny,Tiny
-options_screen_renderdistance_short,Short
+options_screen_volume_description_2,Dette er innstillinger for alle unntatt stater.
+options_screen_renderdistance_tiny,Liten
+options_screen_renderdistance_short,Kort
 options_screen_renderdistance_normal,Normal
-options_screen_renderdistance_far,Far
-options_screen_renderdistance_extreme,Extreme
-options_screen_renderdistance,Render Avstand
-options_screen_renderdistance_description_1,The renderdistance bestemmer,
+options_screen_renderdistance_far,Lang
+options_screen_renderdistance_extreme,Ekstrem
+options_screen_renderdistance,Render Distance
+options_screen_renderdistance_description_1,Render Distance bestemmer,
 options_screen_renderdistance_description_2,hvor langt du kan se.
-options_screen_renderdistance_description_3,ved å slå dette ned,kan du forbedre FPS.
-options_screen_graphicsstyle_fast,Fast
-options_screen_graphicsstyle_fancy,Fancy
+options_screen_renderdistance_description_3,Ved å slå dette ned, kan du forbedre FPS.
+options_screen_graphicsstyle_fast,Raskt
+options_screen_graphicsstyle_fancy,Pent
 options_screen_graphicsstyle,Grafikk
 options_screen_graphicsstyle_description_1,Påvirker hvis noen objekter gjengis
-options_screen_graphicsstyle_description_2,eller ikke. Ved å slå dette ned,kan du forbedre FPS.
-options_screen_graphicsstyle_description_3,dette er innstillinger for alle unntatt stater.
+options_screen_graphicsstyle_description_2,eller ikke. Ved å slå dette ned, kan du forbedre FPS.
+options_screen_graphicsstyle_description_3,Denne innstillingen gjelder for alle lagrede spill.
 options_screen_showbattleanimations,Animasjoner i kamp
 options_screen_showbattleanimations_description,Bestemmer hvis spillet viser kampanimasjoner.
 options_screen_difficulty,Vanskelighetsgrad
 options_screen_difficulty_description_1,Vanskelighetsgrad modus
-options_screen_difficulty_description_2,Setter vanskelighetsgrad.
+options_screen_difficulty_description_2,Setter vanskelighetsgraden.
 options_screen_resetoptions,Tilbakestill alternativer.
-options_screen_resetoptions_description,Tilbakestill alle valg.
-options_screen_saveoptions,Spar alternativer.
-options_screen_saveoptions_description,Redd alternativene og lukke menyen.
-options_screen_closeoptions,Close-menyen.
+options_screen_resetoptions_description,Tilbakestill alle alternativer.
+options_screen_saveoptions,Lagre alternativer.
+options_screen_saveoptions_description,Lagre alternativene og lukke menyen.
+options_screen_closeoptions,Lukk menyen.
 options_screen_closeoptions_description_1,Lukk menyen og ikke lagre
 options_screen_closeoptions_description_2,endringene.
 options_screen_decription_title,Beskrivelse
-save_screen_saved,lagret spillet.
+save_screen_saved,Lagret spillet.
 save_screen_prompt,Vil du lagre spillet?
 trade_screen_buy_for,Kjøp for
 trade_screen_sell_for,Selg for
-trade_screen_your_money,Dine Penger
-trade_screen_price,Prisen
+trade_screen_your_money,Dine penger
+trade_screen_price,Pris
 trade_screen_buy,Kjøp
 trade_screen_sell,Selg
-trade_screen_cannot_trade,ikke kan omsettes.
-trade_screen_drop_item,Drop objektet her.
-trainer_card_screen_title,Trainer-kort
-trainer_card_collected_badges,Innsamlede merker
-battle_message_sent_out sendte ut~
+trade_screen_cannot_trade,kan ikke byttes.
+trade_screen_drop_item,Slipp objektet her.
+trainer_card_screen_title,Trener kort
+trainer_card_collected_badges,Innsamlede medaljer
+battle_message_sent_out,sendte ut~
 battle_message_sent_out_switch_1,handler om~å sende ut~
-battle_message_sent_out_switch_2,~ Vil du bytte~dine Pokémon?
-battle_message_choose_pokemon velger Pokémon
+battle_message_sent_out_switch_2,~Vil du bytte~dine Pokémon?
+battle_message_choose_pokemon,Velg Pokémon
 battle_message_wild_encounter_1,En vill
-battle_message_wild_encounter_2,~ dukket opp!
-battle_message_trainer_encounter ønsker~til kamp!
-battle_message_pokemon_go,Go!
-battle_message_trainer_defeat_1 ble~beseiret! *
+battle_message_wild_encounter_2,~dukket opp!
+battle_message_trainer_encounter,ønsker~en Pokémon kamp!
+battle_message_pokemon_go,Gå!
+battle_message_trainer_defeat_1,ble~beseiret!*
 battle_message_trainer_defeat_2,fikk
-battle_message_trainer_defeat_3,~ PokéDollar for å vinne!
+battle_message_trainer_defeat_3,~PokéDollar for å vinne!
 battle_message_pokemon_return_1,Kom tilbake,~
-battle_message_pokemon_return_2,god jobb,~
-battle_message_pokemon_return_3_1,God jobb
-battle_message_pokemon_return_3_2,~ Kom tilbake.
-battle_message_pokemon_return_4_1,du har vært fantastisk,~
-battle_message_pokemon_return_4_2,~ Nå kommer vi tilbake!
-battle_message_pokemon_return_5,Well done.~Nå kommer vi tilbake.
+battle_message_pokemon_return_2,Godt jobbet,~
+battle_message_pokemon_return_3_1,Bra jobbet
+battle_message_pokemon_return_3_2,~Kom tilbake.
+battle_message_pokemon_return_4_1,Du har vært fantastisk,~
+battle_message_pokemon_return_4_2,~Kom tilbake!
+battle_message_pokemon_return_5,Bra jobbet.~Kom tilbake.
 battle_message_pokemon_return_6,Kom tilbake,~
-battle_message_run_success,slapp unna trygt!
-battle_message_run_fail_trainer,kan ikke løpe fra en trener kamp!
-battle_message_run_fail,mislykkes Kjører.
-battle_message_catch_fail_trainer,Hey!~Ikke være en tyv!
-battle_message_item_disallowed,ikke kan brukes~i kamper!
+battle_message_run_success,Du slapp unna trygt!
+battle_message_run_fail_trainer,Du kan ikke løpe fra en trener kamp!
+battle_message_run_fail,Løping mislykkes.
+battle_message_catch_fail_trainer,Hei!~Ikke vær en tyv!
+battle_message_item_disallowed,kan ikke brukes~i kamper!
 battle_message_use,Bruk
 battle_message_used,Brukte
 battle_message_already_in_battle,er allerede~i kampen!
-battle_message_is_fainted er besvimte!
+battle_message_is_fainted,er besvimt!
 battle_message_fainted,besvimte!
-battle_message_gained fikk
-battle_message_no_pp har~ingen PP venstre! *
-battle_message_sleep,er rask~sover.
+battle_message_gained,fikk
+battle_message_no_pp,har~ingen PP venstre!*
+battle_message_sleep,sover~godt.
 battle_message_wake,våknet opp!
-battle_message_paralyzed,er lammet!~Det kan ikke flytte!
+battle_message_paralyzed,er lammet!~Det kan ikke bevege på seg!
 battle_message_frozen,er ingen~lenger frosset!
 battle_message_thaw,er frosset~solid!
-battle_message_stat_up,~ litt rose!
-battle_message_stat_down,~ litt falt!
-battle_message_stat_up_sharp,~ kraftig steg!
-battle_message_stat_down_sharp,~ kraftig falt!
+battle_message_stat_up,~steg litt!
+battle_message_stat_down,~falt litt!
+battle_message_stat_up_sharp,~steg kraftig!
+battle_message_stat_down_sharp,~falt kraftig!
 battle_message_effect_failed,men det mislyktes.
-battle_message_crit,En kritisk hit!
+battle_message_crit,Et kritisk treff!
+
+----------------------------------------
+
 battle_message_super_effective,det er super effektiv!
 battle_message_not_effective,det er ikke veldig effektivt ...
 battle_message_immune,har det ingen effekt ...
