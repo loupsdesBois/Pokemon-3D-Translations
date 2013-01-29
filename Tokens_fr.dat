@@ -1,0 +1,326 @@
+﻿﻿﻿menus_continue,Continue
+menus_load_game,Charger partie
+menus_new_game,Nouvelle partie
+menus_quit_game,Quitter
+menus_name,Nom
+menus_badges,Badges
+menus_badge,Badge
+menus_location,Location
+menus_money,Argent
+menus_time,Temps
+menus_points,Points
+menus_delete,Supprimer
+menus_cancel,Annuler
+menus_pokedex,Pokédex
+menus_ok,Ok
+menus_yes,Oui
+menus_no,Non
+menus_clear,Clear
+menus_back,Retour
+menus_load,Charger
+menus_back_to_game,Retour au jeu
+menus_disconnect,Déconnexion
+menus_quit_to_menu,Retour au menu
+menus_item,Objet
+menus_items,Objet:
+menus_summary,Sommaire
+menus_switch,Changer
+menus_give,Donner
+menus_take,Prendre
+menus_close_instructions,Appuyer sur E pour sortir du menu
+menus_back_instructions,Appuyer sur E pour un retour en arrière
+menus_bag,Sac
+menus_empty,Vide
+menus_description,Description:
+pause_menu_title,Menu
+main_menu_delete_confirm,Veut tu vraiment supprimer la sauvegarde?
+game_message_close_connection,Tu as fermé la partie en co-op.
+game_message_disconnect,Tu es déconnecté de l'hôte.
+game_message_screenshot_saved,Screenshot sauvergardé
+game_message_full_screen_on,Mode pleine écran
+game_message_full_screen_off,Mode fenêtré
+black_out_screen_1,Tout tes POKémon sont évanouis!
+black_out_screen_2,Tu va être transporté
+black_out_screen_3,au plus proche centre POKéMON
+black_out_screen_4,pour soigner les blesures
+black_out_screen_5,de tes POkéMON.
+battle_pokemon_catch_1,Gotcha!~
+battle_pokemon_catch_2,est attrapé!
+battle_pokemon_catch_3,les informations~sont ajoutées au Pokédex.
+battle_pokemon_catch_4,~est transféré dans une boite
+battle_pokemon_catch_5,~sur ton PC.
+battle_pokeball_throw,<playername> utilise
+battle_pokemon_info_back,Retour
+donation_screen_title,Mecènes:
+apricorns_screen_title,Noigrume
+apricorns_screen_busy_1,Je suis entrain de fabriquer des BALL en ce moment.
+apricorns_screen_busy_2,Reviens plus tard.
+apricorns_screen_choose,Choisis les Noigrumes que tu veux que je transforme en Pokéballs.
+apricorns_screen_ready,J'ai finis mon travail et voici le résultat:
+item_detail_screen_give,Donner
+item_detail_screen_use,Utiliser
+item_detail_screen_trash,Jeter
+item_detail_screen_back,Retour
+give_item_to_pokemon1,donner
+give_item_to_pokemon2,à~
+give_item_to_pokemon3,~remettre dans
+give_item_to_pokemon4,~l'inventaire.
+pokedex_sidebar_seen,Vus:
+pokedex_sidebar_obtained,Pris:
+pokedex_sidebar_rare,Rare:
+game_menu_pokedex,Pokédex
+game_menu_party,Pokémon
+game_menu_bag,Sac
+game_menu_trainer_card,<playername>
+game_menu_save,Sauvegarde
+game_menu_options,Options
+game_menu_exit,Retour
+intro_line_1,Bonjour!~Désolé de l'attente!*Bienvenu dans le monde~des POkéMON!*Mon nom est CHEN.~Mais on m'appelle le~PROF.POKéMON*Ce monde est peuplé de créature appelées POKéMON.
+intro_line_2,*Humains et POKéMON vivent~en parfaite harmonie....~Certain jouent avec les~Pokémon,~d'autre font des combats~avec eux.*Mais il reste encore~beaucoup à apprendre sur~nos amis les POkéMON.~De nombreux mystères planent~à leur sujet.*Et c'est pourquoi j'étudie~les POKéMON tous les jours.*Heu....c'est quoi ton nom déjà?
+intro_line_3,~ta quête est sur le point~de commencer?*Joies et périls paveront ta route....~Un monde de rêve, de danger et de POKéMON~t'attend!En avant!*A plus tard!
+intro_name_prompt,Ton nom:
+intro_skin_prompt,Choix du skin:
+intro_bad_name,Ce nom est trop court.
+intro_reaction_weird,*Hm c'est un nom bizzard.
+intro_reaction_known,*Hm je suis sur que~j'ai entendu ce nom avant.
+intro_reaction_same,Hey nous avons le même nom.*Mon nom est aussi~
+intro_reaction_base,Bon! donc ton nom est~
+options_screen_title,Options
+options_screen_not_saved_warning,Les options n'ont pas encore était sauvegardé, descend et choisis "Sauver les options."
+options_screen_textspeed,Vitesse du texte
+options_screen_textspeed_description_1,La vitesse de déffilement de texte.
+options_screen_textspeed_description_2,
+options_screen_fov,FOV
+options_screen_fov_description_1,Le champs de vision. Plus la valeur est grande,
+options_screen_fov_description_2,plus on voit loin.
+options_screen_fov_description_3,Warning: Une trop grandez valeur peut causer des lags sur les maps.
+options_screen_mousespeed,Vitesse de la souris
+options_screen_mousespeed_description_1,La vitesse de la souris fait varier la vitesse de rotation
+options_screen_mousespeed_description_2,du personage quand on bouge la souris.
+options_screen_volume,Volume
+options_screen_volume_description_1,Le volume musical.
+options_screen_volume_description_2,Ce réglage est pour toute les sauvegardes du jeu.
+options_screen_renderdistance_tiny,Vraiment petit
+options_screen_renderdistance_short,Court
+options_screen_renderdistance_normal,Normal
+options_screen_renderdistance_far,Loin
+options_screen_renderdistance_extreme,Extreme
+options_screen_renderdistance,Distance de vision
+options_screen_renderdistance_description_1,la distance de vision détermine,
+options_screen_renderdistance_description_2,la distance que à laquelle vous pouvez voire la Map.
+options_screen_renderdistance_description_3,En réduissant cette option, cela peut augmenter le nombre de FPS.
+options_screen_graphicsstyle_fast,Rapide
+options_screen_graphicsstyle_fancy,Lent
+options_screen_graphicsstyle,Graphics
+options_screen_graphicsstyle_description_1,Affiche ou non les objets au loin.
+options_screen_graphicsstyle_description_2,En réduisant cette option, cela permet d'augmenter le nombre de FPS
+options_screen_graphicsstyle_description_3,Ce réglage est pour toute les sauvegardes du jeu.
+options_screen_showbattleanimations,Animations pendant les combats
+options_screen_showbattleanimations_description,Determine si le jeu affiche les animations durant les combats.
+options_screen_difficulty,Difficulté
+options_screen_difficulty_description_1,Mode de difficulté
+options_screen_difficulty_description_2,Regle le niveau de difficulté.
+options_screen_resetoptions,Options par défaut.
+options_screen_resetoptions_description,Remet les options par défaut du jeu.
+options_screen_saveoptions,Sauvegarde des options.
+options_screen_saveoptions_description,Sauve les options et ferme le menu.
+options_screen_closeoptions,Sortir du menu.
+options_screen_closeoptions_description_1,Ferme le menu sans sauvegarder les
+options_screen_closeoptions_description_2,les changements d'options.
+options_screen_decription_title,Description
+save_screen_saved,Sauvegarde la progression du jeu.
+save_screen_prompt,Veux-tu sauvegarder ta progression?
+trade_screen_buy_for,Acheter pour
+trade_screen_sell_for,Vendre pour
+trade_screen_your_money,Votre argent
+trade_screen_price,Prix
+trade_screen_buy,Acheter
+trade_screen_sell,Vendre
+trade_screen_cannot_trade,ne peut être vendu.
+trade_screen_drop_item,mettre l'objet ici.
+trainer_card_screen_title,Carte de dresseur
+trainer_card_collected_badges,Collection de badges
+battle_message_sent_out,envoie~
+battle_message_sent_out_switch_1,est sur ​​le ~point d'envoyer~
+battle_message_sent_out_switch_2,~Veux-tu changer de POKéMON?
+battle_message_choose_pokemon,Choisis ton Pokémon
+battle_message_wild_encounter_1,Un
+battle_message_wild_encounter_2,~sauvage apparaît!
+battle_message_trainer_encounter,~veut se battre!
+battle_message_pokemon_go,Go!
+battle_message_trainer_defeat_1,~est battu!*
+battle_message_trainer_defeat_2,remporte
+battle_message_trainer_defeat_3,~PokéDollar!
+battle_message_pokemon_return_1,Reviens,~
+battle_message_pokemon_return_2,Bon travail,~
+battle_message_pokemon_return_3_1,Excellent travail
+battle_message_pokemon_return_3_2,!~Reviens.
+battle_message_pokemon_return_4_1,Tu as été génial,~
+battle_message_pokemon_return_4_2,~Maintenant reviens!
+battle_message_pokemon_return_5,Bien joué.~Maintenant reviens.
+battle_message_pokemon_return_6,Reviens,~
+battle_message_run_success,Vous prenez la fuite!lâche!
+battle_message_run_fail_trainer,On ne s'enfuit pas d'un combat~contre un dresseur!
+battle_message_run_fail,la fuite a échoué.
+battle_message_catch_fail_trainer,Hey!~Ne soit pas ce genre~de dresseur!
+battle_message_item_disallowed,ne peut-être utilisé~en combat!
+battle_message_use,Utilise
+battle_message_already_in_battle,est déjà~au combat!
+battle_message_is_fainted,est K.O!
+battle_menu_battle,Attaque
+battle_menu_bag,Sac
+battle_menu_pokemon,Pokémon
+battle_menu_run,Fuite
+battle_menu_move,se déplacer
+battle_menu_dodge,esquive
+battle_message_use,Utilise
+battle_message_used,Utilise
+battle_message_fainted,K.O!
+battle_message_gained,gagne
+battle_message_no_pp,plus de PP!*
+battle_message_sleep,est entrain de dormir.
+battle_message_wake,se réveille!
+battle_message_paralyzed,est paralysé!~Il ne peut pas bouger!
+battle_message_frozen,n'est plus gelé!
+battle_message_thaw,est gelé!
+battle_message_stat_up,~à légèrement augmenté!
+battle_message_stat_down,~à légèrement diminue!
+battle_message_stat_up_sharp,~augmente!
+battle_message_stat_down_sharp,~diminue!
+battle_message_effect_failed,mais à échoué.
+battle_message_crit,un coup critique!
+battle_message_super_effective,c'est super efficace!
+battle_message_not_effective,c'est pas vraiment efficace...
+battle_message_immune,ça n'a pas d'effet...
+battle_message_miss,l'attaque échoue!
+battle_message_hurt_burn,est blessé par la brulure!
+battle_message_hurt_poison,est blessé par le poison!
+battle_message_reached_level,gagne~un niveau
+battle_message_learned,apprend
+battle_message_status_effect_taken,est maintenant
+battle_message_status_effect_present,est déjà
+abilities_overgrowth_description,Booste les capacités Plante en cas de besoin.
+attacks_dark_bite_description,Une morsure qui comparable à la force d'un requin.
+attacks_dark_crunch_description,Mâchouille inflige des dégâts et à 20% de chances de baisser la défense de la cible d'un niveau.
+attacks_dark_faint_attack_description,Attire l'ennemi proche, puis frappe sans à coup sûr.
+attacks_dragon_dragon_rage_description,Une attaque qui enlève à coup sûr 40 PV.
+attacks_electric_flash_description,Aveugle l'ennemie pour réduire sa précision.
+attacks_electric_thunder_description,Une violente attaque électrique, qui peut aussi paralyser.
+attacks_electric_thunderbolt_description,Une attaque qui peut causer la paralysie.
+attacks_electric_thunder_punch_description,Un point électrique qui peut aussi paralyser.
+attacks_electric_thunder_shock_description,Une attaque électrique qui peut laisser la cible paralyser.
+attacks_electric_thunder_wave_description,Une attaque qui peut causer la paralysie.
+attacks_fighting_karate_chop_description,Attaque qui a de forte chance d'être critique.
+attacks_fighting_low_kick_description,Une attaque qui inflige plus de dégats sur les cibles lourdes.
+attacks_fighting_reversal_description,Une attaque qui devient plus puissante si le lanceur est en mauvaise posture.
+attacks_fighting_rolling_kick_description,Un coup rotatif puissant.
+attacks_fighting_seismic_toss_description,L'attaque est éguale au niveau du lanceur.
+attacks_fire_ember_description,Une attaque qui peut infliger une brulure.
+attacks_fire_fire_blast_description,Une attaque qui peut causer une brulure.
+attacks_fire_fire_punch_description,Un poing de feu qui peut causer une brulure.
+attacks_fire_flame_charge_description,Le lanceur se charge de flamme et attaque. Ce qui lui augmente l'attaque et la vitesse.
+attacks_fire_flamethrower_description,Une puissante attaque de feu qui peut causer une brulure.
+attacks_fire_flame_wheel_description,Le lanceur exécute une charge emflammé sur la cible. Peut causer une brulure.
+attacks_fire_lava_plume_description,An inferno of scarlet flames washes over all Pokémon in battle. It may also inflict burns.
+attacks_flying_aeroblast_description,Un vortex d'air qui s'écrase sur la cible. Un de forte chance d'être critique.
+attacks_flying_drill_peck_description,Un puissant coup de bec rotatif.
+attacks_flying_gust_description,Frappe avec la puissance du vent.
+attacks_flying_peck_description,Frappe la cible avec le bec.
+attacks_flying_wing_attack_description,Frappe la cible avec ses ailes.
+attacks_ghost_lick_description,Lèche la cible avec sa grosse langue. Peut causer la paralisie.
+attacks_ghost_night_shade_description,L'attaque est égale au level du lanceur.
+attacks_grass_cotton_spore_description,Du cotton s'attache à la cible, ce qui réduit sa vitesse.
+attacks_grass_magical_leaf_description,Le lanceur lance des feuilles qui couvrent sa fuite. Cette attaque ne peut manquait.
+attacks_grass_razor_leaf_description,Coupe la cible avec des feuilles, cette attaque à des fortes chances d'être critique.
+attacks_grass_sleep_powder_description,Peut endormir la cible.
+attacks_grass_spore_description,Une attaque qui peut endormir la cible.
+attacks_grass_stun_spore_description,Une attaque qui peut paralyser la cible.
+attacks_grass_synthesis_description,Soigne le lanceur. Le montant d'HP récuperé dépend du temps qu'il fait.
+attacks_grass_vine_whip_description,Fouette la cible avec ses lianes.
+attacks_ground_bone_club_description,Frappe la cible avec des os.
+attacks_ground_earthquake_description,Peut être inefficace sont les POKéMON de type vol.
+attacks_ground_mudslap_description,Le lanceur jette de la boue sur la cible, ce qui lui inflige des dégats et reduit sa précision.
+attacks_ground_sand_attack_description,Réduit la précision en envoyant du sable.
+attacks_ice_aurora_beam_description,Une attaque faible.
+attacks_ice_blizzard_description,Une attaque qui peut geler la cible.
+attacks_ice_haze_description,Elimine tout les changements de Stat de la cible.
+attacks_ice_ice_beam_description,Frappe la cible avec un rayon de glace, peut geler la cible.
+attacks_ice_ice_fang_description,Le lanceur mord avec des dents de glaces.Peut geler la cible.
+attacks_ice_ice_punch_description,frappe la cible avec un poig de glace. peut laisser la cible geler sur place.
+attacks_ice_powder_snow_description,Frappe la cible avec une rafale de glace. Peut geler la cible.
+attacks_normal_body_slam_description,Une attaque qui peut causer la paralysie.
+attacks_normal_constrict_description,Contracte la cible pour lui infliger de la douleur. Attaque à faible vitesse.
+attacks_normal_cut_description,Coupe utilise les ailes, les pinces etc...
+attacks_normal_defense_curl_description,Augmente la defense du lanceur.
+attacks_normal_dizzy_punch_description,Une attaque qui peut causer la confusion.
+attacks_normal_double_team_description,Reflet monte l'esquive du lanceur d'un niveau.
+attacks_normal_egg_bomb_description,Des oeufs sont lancés sur la cible.
+attacks_normal_flail_description,Fléau inflige des dégâts en fonction des PVs restants du lanceur : moins il en a, plus l'attaque est efficace.
+attacks_normal_focus_energy_description,Augmente la chance d'obtenir un coup critique.
+attacks_normal_focus_energy_success,est gonflé à bloc!
+attacks_normal_focus_energy_fail,mais échoue!
+attacks_normal_glare_description,Cette attaque peut causer la paralisie.
+attacks_normal_growl_description,Reduit la puisssance d'attaque de la cible.
+attacks_normal_growth_description,Augmente la puissance de l'attaque spécial.
+attacks_normal_harden_description,Augmente la defense du lanceur.
+attacks_normal_headbutt_description,Le lanceur met sa tête en avant et fonce sur sa cible.
+attacks_normal_horn_attack_description,Une attaque qui utilise une corne.
+attacks_normal_hyper_fang_description,Une attaque qui est semblable à une morsure de requin.
+attacks_normal_leer_description,Réduit la défense de la cible.
+attacks_normal_lovely_kiss_description,Peut endormir la cble.
+attacks_normal_mega_kick_description,Un puissant coup dévastateur.
+attacks_normal_mega_punch_description,Un puissant coup de poing qui frappe très fort.
+attacks_normal_minimize_description,Le lanceur réduit sa taille.
+attacks_normal_pound_description,Ecrase la cible avec ses jambes ou sa queue.
+attacks_normal_quick_attack_description,Une attaque extrêmement rapide et qui passe toujours en premiers.
+attacks_normal_recover_description,Restore la moitié de la vie du lanceur.
+attacks_normal_recover_effect,Restore la vie du lanceur.
+attacks_normal_scary_face_description,Intimide la cible avec une grimace et réduit la vitesse.
+attacks_normal_scratch_description,Griffe avec des griffes tranchantes.
+attacks_normal_screech_description,Émet un crissement pour réduire la défense de la cible.
+attacks_normal_sharpen_description,Réduit le nombre de polygone et augmente l'attaque.
+attacks_normal_sing_description,Cause l'endormisement de la cible.
+attacks_normal_slam_description,Claque la fesse de la cible avec sa queue,lianes,fouet etc... :p
+attacks_normal_slash_description,Frappe avec ses griffes, etc.
+attacks_normal_smoke_screen_description,Baisse la precision de la cible.
+attacks_normal_softboiled_description,Restore la moitié de la vie maximum du lanceur.
+attacks_normal_sonic_boom_description,Inflige toujours 20HP de dommage.
+attacks_normal_splash_description,Cette attaque n'a aucun effet.
+attacks_normal_stomp_description,Cogne l'énnemie avec ses pieds.
+attacks_normal_strength_description,Une puissante attaque physique.
+attacks_normal_struggle_description,S'utilise uniquement si plus aucun PP n'est disponible.
+attacks_normal_super_fang_description,Réduit la vie de la cible de moitié.
+attacks_normal_supersonic_description,Cette vague sonique provoque la confusion chez la cible.
+attacks_normal_swift_description,Spray étoilée qui ne rate jamais sa cible.
+attacks_normal_swords_dance_description,Une danse qui augmente la puissance d'attaque du lanceur.
+attacks_normal_tackle_description,Une attaque qui utilise tout le corps du lanceur.
+attacks_normal_tail_whip_description,Réduit la défense de la cible.
+attacks_normal_tri_attack_description,Le lanceur fait feu de trois faisceaux à la fois.
+attacks_normal_vice_grip_description,Agrippe la cible.
+attacks_poison_acid_armor_description,Liquifie le corps du lanceur pour augmenter la défense du lanceur.
+attacks_poison_acid_description,Une attaque qui peut diminuer la défense.
+attacks_poison_poison_gas_description,Envellope la cible dans un gaz de poison et qui peut l'empoisonner.
+attacks_poison_poison_powder_description,Disperse une poudre toxique pouvant empoisonner l'ennemi.
+attacks_poison_poison_sting_description,Une attaque qui peut empoissoner la cible.
+attacks_poison_sludge_description,Une attaque qui peut empoissoner la cible.
+attacks_poison_sludge_bomb_description,De la boue est lancé à toute vitesse pour infliger des dégâts. Peut aussi empoisonner.
+attacks_poison_smog_description,Une attaque qui peut empoissoner la cible.
+attacks_psychic_agility_description,Relache la tension du corps pour augmenter la vitesse.
+attacks_psychic_amnesia_description,Augmente nettement la défense spéciale.
+attacks_psychic_confusion_description,La cible est frappé par une force télékinésique.
+attacks_psychic_hypnosis_description,Force la cible à s'endormir.
+attacks_psychic_kinesis_description,Distrait la cible. Baisse sa présicion.
+attacks_psychic_meditate_description,Augmente l'attaque du lanceur.
+attacks_psychic_psybeam_description,Un rayon télékinesique s'abat la cible.
+attacks_psychic_psychic_description,Une attaque qui augmente la défense spécial du lanceur.
+attacks_psychic_psywave_description,Une attaque avec de variable pouvoir.
+attacks_rock_rock_slide_description,De gros rochers sont jetés au visage de la cible.
+attacks_rock_rock_throw_description,Lance des rochers sur la cible.
+attacks_water_aqua_tail_description,Le lanceur attaque en balançant sa queue comme s'il s'agissait d'une vague vicieuse dans une tempête qui fait rage.
+attacks_water_bubble_description,Une attaque qui réduit la vitesse de la cible.
+attacks_water_bubble_beam_description,Une attaque qui réduit la vitesse de la cible.
+attacks_water_crabhammer_description,Utilise ses pinces tel un marteau pour frapper son adversaire.
+attacks_water_hydro_pump_description,Une puisssante attaque aquatique.
+attacks_water_surf_description,Crée une vague qui vient s'écraser sur la cible.
+attacks_water_waterfall_description,Une puissante charge aquatique.
+attacks_water_water_gun_description,Projecte de l'eau sur son énemie.

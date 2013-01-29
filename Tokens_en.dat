@@ -1,0 +1,327 @@
+﻿menus_continue,Continue
+menus_load_game,Load Game
+menus_new_game,New Game
+menus_quit_game,Quit Game
+menus_name,Name
+menus_badges,Badges
+menus_badge,Badge
+menus_location,Location
+menus_money,Money
+menus_time,Time
+menus_points,Points
+menus_delete,Delete
+menus_cancel,Cancel
+menus_pokedex,Pokedex
+menus_ok,Ok
+menus_yes,Yes
+menus_no,No
+menus_clear,Clear
+menus_back,Back
+menus_load,Load
+menus_back_to_game,Back to game
+menus_disconnect,Disconnect
+menus_quit_to_menu,Quit to menu
+menus_item,Item
+menus_items,Items:
+menus_summary,Summary
+menus_switch,Switch
+menus_give,Give
+menus_take,Take
+menus_close_instructions,Press E to close
+menus_back_instructions,PRESS E TO GO BACK
+menus_bag,Bag
+menus_empty,EMPTY
+menus_description,Description:
+menus_generation,Generation
+menus_version,Version
+pause_menu_title,Game menu
+main_menu_delete_confirm,Do you really want to delete the save
+game_message_close_connection,You closed the co-op game.
+game_message_disconnect,You disconnected from the host.
+game_message_screenshot_saved,Screenshot saved as
+game_message_full_screen_on,Fullscreen on
+game_message_full_screen_off,Fullscreen off
+black_out_screen_1,You have run out of Pokémon!
+black_out_screen_2,You will be brought
+black_out_screen_3,to the nearest PokéCenter
+black_out_screen_4,to prevent further injury
+black_out_screen_5,to your Pokémon.
+battle_pokemon_catch_1,Gotcha!~
+battle_pokemon_catch_2,was caught!
+battle_pokemon_catch_3,data was~added to the Pokédex.
+battle_pokemon_catch_4,~It was transfered to Box
+battle_pokemon_catch_5,~on your PC.
+battle_pokeball_throw,<playername> used a
+battle_pokemon_info_back,Back
+donation_screen_title,Donators:
+apricorns_screen_title,Apricorns
+apricorns_screen_busy_1,I am producing the Balls at the moment.
+apricorns_screen_busy_2,Come back later.
+apricorns_screen_choose,Please choose the Apricorns I should take to produce Pokéballs.
+apricorns_screen_ready,I am ready producing Pokéballs. Here's the result of my work:
+item_detail_screen_give,Give
+item_detail_screen_use,Use
+item_detail_screen_trash,Trash
+item_detail_screen_back,Back
+give_item_to_pokemon1,Gave
+give_item_to_pokemon2,to~
+give_item_to_pokemon3,~and put
+give_item_to_pokemon4,~back to inventory.
+pokedex_sidebar_seen,Seen:
+pokedex_sidebar_obtained,Obtained:
+pokedex_sidebar_rare,Rare:
+game_menu_pokedex,Pokédex
+game_menu_party,Pokémon
+game_menu_bag,Bag
+game_menu_trainer_card,<playername>
+game_menu_save,Save
+game_menu_options,Options
+game_menu_exit,Exit Menu
+intro_line_1,Hello!~Sorry to keep~you waiting!*Welcome to the world~of Pokémon!*My name is Oak.~People call me~Pokémon Prof.*This world is inhabited~by creatures that~we call
+intro_line_2,Pokémon.*People and Pokémon live~together by supporting~each other.~Some people play with~Pokémon,~some battle with them.*But we don't know~everything about~Pokémon yet.~There are still many~mysteries to solve.*That's why I study~Pokémon every day.*Now, what did you~say your name was?
+intro_line_3,~are you ready?*Your very own~Pokémon story is about~to unfold.*You'll face fun~times and tough~challenges.~A world of dreams and~adventures with Pokémon~awaits!*Let's go!*I'll be seeing~you later!
+intro_name_prompt,Your name:
+intro_skin_prompt,Choose skin:
+intro_bad_name,This name is too short
+intro_reaction_weird,*Hm that is a~weird name.
+intro_reaction_known,*Hm I am sure I~heard this name before.
+intro_reaction_same,Hey we got the~same names.*My name is also~
+intro_reaction_base,Right! So your name is~
+options_screen_title,Options
+options_screen_not_saved_warning,Options aren't saved yet, scroll down and choose "Save options."
+options_screen_textspeed,TextSpeed
+options_screen_textspeed_description_1,The speed the textbox shows up and
+options_screen_textspeed_description_2,displays the text.
+options_screen_fov,FOV
+options_screen_fov_description_1,The field of view. The higher the value is,
+options_screen_fov_description_2,the more you can see.
+options_screen_fov_description_3,Warning: Too large value can cause lags in larger maps.
+options_screen_mousespeed,MouseSpeed
+options_screen_mousespeed_description_1,The Mousespeed sets the speed on which the
+options_screen_mousespeed_description_2,mouse can rotate the view.
+options_screen_volume,Volume
+options_screen_volume_description_1,The volume of the background music.
+options_screen_volume_description_2,This settings is for all save states.
+options_screen_renderdistance_tiny,Tiny
+options_screen_renderdistance_short,Short
+options_screen_renderdistance_normal,Normal
+options_screen_renderdistance_far,Far
+options_screen_renderdistance_extreme,Extreme
+options_screen_renderdistance,Render Distance
+options_screen_renderdistance_description_1,The renderdistance determines,
+options_screen_renderdistance_description_2,how far you can see.
+options_screen_renderdistance_description_3,By turning this down, you can improve your FPS.
+options_screen_graphicsstyle_fast,Fast
+options_screen_graphicsstyle_fancy,Fancy
+options_screen_graphicsstyle,Graphics
+options_screen_graphicsstyle_description_1,Affects if some objects are rendered
+options_screen_graphicsstyle_description_2,or not. By turning this down, you can improve your FPS.
+options_screen_graphicsstyle_description_3,This settings is for all save states.
+options_screen_showbattleanimations,Animations in battle
+options_screen_showbattleanimations_description,Determines if the game shows battle animations.
+options_screen_difficulty,Difficulty
+options_screen_difficulty_description_1,Difficulty mode
+options_screen_difficulty_description_2,Sets the level of difficulty.
+options_screen_resetoptions,Reset options.
+options_screen_resetoptions_description,Reset all options.
+options_screen_saveoptions,Save options.
+options_screen_saveoptions_description,Save the options and close the menu.
+options_screen_closeoptions,Close menu.
+options_screen_closeoptions_description_1,Close the menu and do not save
+options_screen_closeoptions_description_2,the changes.
+options_screen_decription_title,Description
+save_screen_saved,Saved the game.
+save_screen_prompt,Do you want to save the game?
+trade_screen_buy_for,Buy for
+trade_screen_sell_for,Sell for
+trade_screen_your_money,Your Money
+trade_screen_price,Price
+trade_screen_buy,Buy
+trade_screen_sell,Sell
+trade_screen_cannot_trade,cannot be traded.
+trade_screen_drop_item,Drop item here.
+trainer_card_screen_title,Trainer Card
+trainer_card_collected_badges,Collected badges
+battle_message_sent_out,sent out~
+battle_message_sent_out_switch_1,is about~to send out~
+battle_message_sent_out_switch_2,~Do you want to switch~your Pokémon?
+battle_message_choose_pokemon,Choose Pokémon
+battle_message_wild_encounter_1,A wild
+battle_message_wild_encounter_2,~appeared!
+battle_message_trainer_encounter,wants~to battle!
+battle_message_pokemon_go,Go!
+battle_message_trainer_defeat_1,~was defeated!*
+battle_message_trainer_defeat_2,got
+battle_message_trainer_defeat_3,~PokéDollar for winning!
+battle_message_pokemon_return_1,Come back,~
+battle_message_pokemon_return_2,Good job,~
+battle_message_pokemon_return_3_1,Good job
+battle_message_pokemon_return_3_2,!~Come back.
+battle_message_pokemon_return_4_1,You've been awesome,~
+battle_message_pokemon_return_4_2,~Now come back!
+battle_message_pokemon_return_5,Well done.~Now come back.
+battle_message_pokemon_return_6,Come back,~
+battle_message_run_success,Got away safely!
+battle_message_run_fail_trainer,Cannot run from a trainer battle!
+battle_message_run_fail,Running fails.
+battle_message_catch_fail_trainer,Hey!~Don't be a thief!
+battle_message_item_disallowed,cannot be used~in battles!
+battle_message_use,Use
+battle_message_used,Used
+battle_message_already_in_battle,is already~in battle!
+battle_message_is_fainted,is fainted!
+battle_message_fainted,fainted!
+battle_message_gained,gained
+battle_message_no_pp,has~no PP left!*
+battle_message_sleep,is fast~asleep.
+battle_message_wake,woke up!
+battle_message_paralyzed,is paralyzed!~It can't move!
+battle_message_frozen,is no~longer frozen!
+battle_message_thaw,is frozen~solid!
+battle_message_stat_up,~slightly rose!
+battle_message_stat_down,~slightly fell!
+battle_message_stat_up_sharp,~sharply rose!
+battle_message_stat_down_sharp,~sharply fell!
+battle_message_effect_failed,But it failed.
+battle_message_crit,A critical hit!
+battle_message_super_effective,It's super effective!
+battle_message_not_effective,It's not very effective...
+battle_message_immune,It has no effect...
+battle_message_miss,attack missed!
+battle_message_hurt_burn,was hurt~by its burn!
+battle_message_hurt_poison,was hurt~by poison!
+battle_message_reached_level,reached~level
+battle_message_learned,learned
+battle_message_status_effect_taken,is now
+battle_message_status_effect_present,is already
+battle_menu_battle,Battle
+battle_menu_bag,Bag
+battle_menu_pokemon,Pokémon
+battle_menu_run,Run
+battle_menu_move,Move
+battle_menu_dodge,Dodge
+abilities_overgrowth_description,Ups Grass move in a pinch.
+attacks_dark_bite_description,A bite made using sharp fangs.
+attacks_dark_crunch_description,The user crunches up the foe with sharp fangs. It may also lower the target’s Defense stat.
+attacks_dark_faint_attack_description,Draws the foe close, then strikes without fail.
+attacks_dragon_dragon_rage_description,Always inflicts 40HP damage.
+attacks_electric_flash_description,Blinds the foe to reduce accuracy.
+attacks_electric_thunder_description,A brutal lightning attack that may also leave the foe paralyzed.
+attacks_electric_thunderbolt_description,An attack that may cause paralysis.
+attacks_electric_thunder_punch_description,An electrified punch that may paralyze the foe.
+attacks_electric_thunder_shock_description,An electric shock attack that may also leave the foe paralyzed.
+attacks_electric_thunder_wave_description,A move that may cause paralysis.
+attacks_fighting_karate_chop_description,Has a high critical hit ratio.
+attacks_fighting_low_kick_description,A kick that inflicts more damage on heavier foes.
+attacks_fighting_reversal_description,An all-out attack that becomes more powerful the less HP the user has.
+attacks_fighting_rolling_kick_description,A fast, spinning kick.
+attacks_fighting_seismic_toss_description,The user's level equals damage HP.
+attacks_fire_ember_description,An attack that may inflict a burn.
+attacks_fire_fire_blast_description,An attack that may cause a burn.
+attacks_fire_fire_punch_description,A fiery punch that may burn the target.
+attacks_fire_flame_charge_description,The user cloaks itself with flame and attacks. Building up more power, it raises the user's Speed stat.
+attacks_fire_flamethrower_description,A powerful fire attack that may inflict a burn.
+attacks_fire_flame_wheel_description,The user makes a fiery charge at the foe. It may cause a burn.
+attacks_fire_lava_plume_description,An inferno of scarlet flames washes over all Pokémon in battle. It may also inflict burns.
+attacks_flying_aeroblast_description,A vortex of air is shot at the foe. It has a high critical-hit ratio.
+attacks_flying_drill_peck_description,A strong, spinning-peck attack.
+attacks_flying_gust_description,Whips up a strong gust of wind.
+attacks_flying_peck_description,Jabs the foe with a beak, etc.
+attacks_flying_wing_attack_description,Strikes the target with wings.
+attacks_ghost_lick_description,Licks with a long tongue to injure. May also paralyze.
+attacks_ghost_night_shade_description,The user's level equals damage HP.
+attacks_grass_cotton_spore_description,Cotton-like spores cling to the foe, sharply reducing its Speed stat.
+attacks_grass_magical_leaf_description,The user scatters curious leaves that chase the foe. This attack will not miss.
+attacks_grass_razor_leaf_description,Cuts the enemy with leaves. High critical-hit ratio.
+attacks_grass_sleep_powder_description,May cause the foe to fall asleep.
+attacks_grass_spore_description,A move that induces sleep.
+attacks_grass_stun_spore_description,A move that may paralyze the foe.
+attacks_grass_synthesis_description,Restores the user’s HP. The amount of HP regained varies with the weather.
+attacks_grass_vine_whip_description,Whips the foe with slender vines.
+attacks_ground_bone_club_description,Clubs the foe with a bone.
+attacks_ground_earthquake_description,Tough but useless vs. flying foes.
+attacks_ground_mudslap_description,The user hurls mud in the target's face to inflict damage and lower its accuracy.
+attacks_ground_sand_attack_description,Reduces accuracy by throwing sand.
+attacks_ice_aurora_beam_description,An attack that may lower Attack.
+attacks_ice_blizzard_description,An attack that may freeze the foe.
+attacks_ice_haze_description,Eliminates all stat changes.
+attacks_ice_ice_beam_description,Blasts the foe with an icy beam that may freeze it.
+attacks_ice_ice_fang_description,The user bites with cold-infused fangs. It may also make the foe freeze.
+attacks_ice_ice_punch_description,The target is punched with an icy fist. It may also leave the target frozen.
+attacks_ice_powder_snow_description,Blasts the foe with a snowy gust. May cause freezing.
+attacks_normal_body_slam_description,An attack that may cause paralysis.
+attacks_normal_constrict_description,Constricts to inflict pain. May lower Speed.
+attacks_normal_cut_description,Cuts using claws, scythes, etc.
+attacks_normal_defense_curl_description,Heightens the user's Defense.
+attacks_normal_dizzy_punch_description,An attack that may cause confusion.
+attacks_normal_double_team_description,Heightens evasiveness.
+attacks_normal_egg_bomb_description,Eggs are hurled at the foe.
+attacks_normal_flail_description,The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.
+attacks_normal_focus_energy_description,Raises the critical hit ratio.
+attacks_normal_focus_energy_success,is getting~pumped!
+attacks_normal_focus_energy_fail,But it failed!
+attacks_normal_glare_description,A move that may cause paralysis.
+attacks_normal_growl_description,Reduces the foe's Attack.
+attacks_normal_growth_description,A Normal-type move that raises Special Atk.
+attacks_normal_harden_description,Raises the user's Defense.
+attacks_normal_headbutt_description,The user sticks its head out and rams straight forward.
+attacks_normal_horn_attack_description,An attack using a horn to jab.
+attacks_normal_hyper_fang_description,The foe is attacked with sharp fangs.
+attacks_normal_leer_description,Reduces the foe's Defense.
+attacks_normal_lovely_kiss_description,May cause the foe to fall asleep.
+attacks_normal_mega_kick_description,A powerful kicking attack.
+attacks_normal_mega_punch_description,A powerful punch thrown very hard.
+attacks_normal_minimize_description,Heightens evasiveness.
+attacks_normal_pound_description,Pounds the target with forelegs or tail.
+attacks_normal_quick_attack_description,An extremely fast attack that always strikes first.
+attacks_normal_recover_description,Restores HP by 1/2 the user's max HP.
+attacks_normal_recover_effect,HP was restored.
+attacks_normal_scary_face_description,Frightens with a scary face to sharply reduce Speed.
+attacks_normal_scratch_description,Scratches with sharp claws.
+attacks_normal_screech_description,Emits a screech to sharply reduce the foe’s Defense.
+attacks_normal_sharpen_description,Reduces the polygon count and raises Attack.
+attacks_normal_sing_description,May cause the foe to fall asleep.
+attacks_normal_slam_description,Slams the foe with a tail, vine, etc.
+attacks_normal_slash_description,Slashes with claws, etc.
+attacks_normal_smoke_screen_description,Lowers the foe's accuracy.
+attacks_normal_softboiled_description,Restores HP by 1/2 the user's max HP.
+attacks_normal_sonic_boom_description,Always inflicts 20HP damage.
+attacks_normal_splash_description,Has no effect whatsoever.
+attacks_normal_stomp_description,Stomps the enemy with a big foot.
+attacks_normal_strength_description,A powerful physical attack.
+attacks_normal_struggle_description,Used only if all PP are exhausted.
+attacks_normal_super_fang_description,Cuts the foe's HP by 1/2.
+attacks_normal_supersonic_description,Sound waves that cause confusion.
+attacks_normal_swift_description,Sprays star-shaped rays that never miss.
+attacks_normal_swords_dance_description,A dance that increases Attack.
+attacks_normal_tackle_description,A full-body charge attack.
+attacks_normal_tail_whip_description,Lowers the foe's Defense.
+attacks_normal_tri_attack_description,Fires three kinds of beams at once.
+attacks_normal_vice_grip_description,Grips with powerful pincers.
+attacks_poison_acid_armor_description,Liquifies the user’s body to sharply raise Defense.
+attacks_poison_acid_description,An attack that may lower Defense.
+attacks_poison_poison_gas_description,Envelops the foe in a toxic gas that may poison.
+attacks_poison_poison_powder_description,Scatters a toxic powder that may poison the foe.
+attacks_poison_poison_sting_description,An attack that may poison the target.
+attacks_poison_sludge_description,An attack that may poison the foe.
+attacks_poison_sludge_bomb_description,Sludge is hurled to inflict damage. May also poison.
+attacks_poison_smog_description,An attack that may poison the foe.
+attacks_psychic_agility_description,Relaxes the body to sharply boost Speed.
+attacks_psychic_amnesia_description,Sharply raises the user's Spcl.Def.
+attacks_psychic_confusion_description,The foe is hit by a weak telekinetic force.
+attacks_psychic_hypnosis_description,May put the foe to sleep.
+attacks_psychic_kinesis_description,Distracts the foe. May lower accuracy.
+attacks_psychic_meditate_description,Raises the user's Attack.
+attacks_psychic_psybeam_description,A peculiar ray is shot at the foe.
+attacks_psychic_psychic_description,An attack that may lower Special.Def.
+attacks_psychic_psywave_description,An attack with variable power.
+attacks_rock_rock_slide_description,Large boulders are hurled.
+attacks_rock_rock_throw_description,Drops rocks on the enemy.
+attacks_water_aqua_tail_description,The user attacks by swinging its tail as if it were a vicious wave in a raging storm.
+attacks_water_bubble_description,An attack that may reduce Speed.
+attacks_water_bubble_beam_description,An attack that may reduce Speed.
+attacks_water_crabhammer_description,Hammers with a pincer.
+attacks_water_hydro_pump_description,A powerful water- type attack.
+attacks_water_surf_description,Creates a huge wave, then crashes it down on the foe.
+attacks_water_waterfall_description,An aquatic charge attack.
+attacks_water_water_gun_description,Squirts water to attack.
