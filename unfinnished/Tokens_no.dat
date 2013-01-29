@@ -205,26 +205,26 @@ attacks_dark_bite_description,En bit med skarpe hoggtenner.
 attacks_dark_crunch_description,Brukeren knaser opp fienden med skarpe hoggtenner. Det kan også redusere målets forsvar.
 attacks_dark_faint_attack_description,Trekker fiende tett, så angriper uten å feile.
 attacks_dragon_dragon_rage_description,Påfører alltid 40HP i skade.
-
------------------
-
 attacks_electric_flash_description,Gjør fienden blind for å redusere nøyaktigheten.
-attacks_electric_thunder_description,En brutal lyn angrep som også kan forlate fiende lammet.
-attacks_electric_thunderbolt_description,et angrep som kan føre til lammelser.
-attacks_electric_thunder_punch_description,en elektrifisert slag som kan lamme fienden.
-attacks_electric_thunder_shock_description,En elektrisk støt angrep som også kan forlate fiende lammet.
-attacks_electric_thunder_wave_description,et trekk som kan føre til lammelser.
-attacks_fighting_karate_chop_description,har en høy kritisk hit ratio.
-attacks_fighting_low_kick_description,A spark som påfører mer skade på tyngre fiender.
-attacks_fighting_reversal_description,An all-out angrep som blir kraftigere jo mindre HP brukeren har.
-attacks_fighting_rolling_kick_description,En rask,spinning spark.
-attacks_fighting_seismic_toss_description tilsvarer brukerens nivå skade HP.
-attacks_fire_ember_description,et angrep som kan påføre et brannsår.
-attacks_fire_fire_blast_description,et angrep som kan føre til forbrenning.
-attacks_fire_fire_punch_description,En skummel slag som kan brenne målet.
-attacks_fire_flame_charge_description,kapper Brukeren seg med flammer og angrep. Bygge opp mer makt,øker det brukerens Speed ​​stat.
-attacks_fire_flamethrower_description,En kraftig brann angrep som kan påføre et brannsår.
-attacks_fire_flame_wheel_description,gjør brukeren en heftig avgift på fienden. Det kan føre til forbrenning.
+attacks_electric_thunder_description,Et brutalt lyn angrep som også kan forlate fiende lammet.
+attacks_electric_thunderbolt_description,Et angrep som kan føre til lammelser.
+attacks_electric_thunder_punch_description,Et elektrifisert slag som kan lamme fienden.
+attacks_electric_thunder_shock_description,Et elektrisk støt angrep som også kan forlate fiende lammet.
+attacks_electric_thunder_wave_description,Et trekk som kan føre til lammelser.
+attacks_fighting_karate_chop_description,Har en høy kritisk hit ratio.
+attacks_fighting_low_kick_description,Et spark som påfører mer skade på tyngre fiender.
+attacks_fighting_reversal_description,Et altomfattende angrep som blir kraftigere jo mindre HP brukeren har.
+attacks_fighting_rolling_kick_description,Et raskt, spinning spark.
+attacks_fighting_seismic_toss_description,Tilsvarer brukerens skade HP.
+attacks_fire_ember_description,Et angrep som kan påføre et brannsår.
+attacks_fire_fire_blast_description,Et angrep som kan påføre forbrenning.
+attacks_fire_fire_punch_description,Et skummelt slag som kan brenne målet.
+attacks_fire_flame_charge_description,Brukeren gjemmer seg med flammer og angriper. Bygger opp mer kraft, øker det brukerens Speed.
+attacks_fire_flamethrower_description,Et kraftig brann angrep som kan påføre et brannsår.
+attacks_fire_flame_wheel_description,Gjør brukeren en heftig avgift på fienden. Det kan føre til forbrenning.
+
+-----------------------------------
+
 attacks_fire_lava_plume_description,vasker Et inferno av scarlet flammer over alt Pokémon i kamp. Det kan også påføre brannskader.
 attacks_flying_aeroblast_description,en virvel av luft er skutt på fienden. Den har en høy kritisk hit ratio.
 attacks_flying_drill_peck_description,En sterk,spinning-peck angrep.
