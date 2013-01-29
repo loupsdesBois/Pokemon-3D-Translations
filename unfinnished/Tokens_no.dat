@@ -184,31 +184,31 @@ battle_message_stat_up_sharp,~steg kraftig!
 battle_message_stat_down_sharp,~falt kraftig!
 battle_message_effect_failed,men det mislyktes.
 battle_message_crit,Et kritisk treff!
-
-----------------------------------------
-
-battle_message_super_effective,det er super effektiv!
-battle_message_not_effective,det er ikke veldig effektivt ...
-battle_message_immune,har det ingen effekt ...
-battle_message_miss,angrep savnet!
-battle_message_hurt_burn,ble skadet~av brenne sin!
+battle_message_super_effective,Det er super effektiv!
+battle_message_not_effective,Det er ikke veldig effektivt...
+battle_message_immune,Det har ingen effekt...
+battle_message_miss,angrep bommet!
+battle_message_hurt_burn,ble skadet~flammer!
 battle_message_hurt_poison,ble skadet~av gift!
-battle_message_reached_level nådde~nivå
+battle_message_reached_level,nådde~nivå
 battle_message_learned,lærte
 battle_message_status_effect_taken,er nå
 battle_message_status_effect_present,er allerede
-battle_menu_battle,Battle
-battle_menu_bag,Bag
+battle_menu_battle,Kamp
+battle_menu_bag,Sekk
 battle_menu_pokemon,Pokémon
-battle_menu_run,Run
+battle_menu_run,Løp
 battle_menu_move,Flytt
-battle_menu_dodge,Dodge
-abilities_overgrowth_description,Ups Grass bevege seg i en klemme.
-attacks_dark_bite_description,gjort en bite med skarpe hoggtenner.
-attacks_dark_crunch_description,brukeren crunches opp fienden med skarpe hoggtenner. Det kan også redusere målets Defense stat.
-attacks_dark_faint_attack_description,Tegner fiende tett,så streiker uten å lykkes.
-attacks_dragon_dragon_rage_description,alltid påfører 40hk skade.
-attacks_electric_flash_description,Blinds fienden for å redusere nøyaktigheten.
+battle_menu_dodge,Unnamanøver
+abilities_overgrowth_description,Ups Grass i en klemme.
+attacks_dark_bite_description,En bit med skarpe hoggtenner.
+attacks_dark_crunch_description,Brukeren knaser opp fienden med skarpe hoggtenner. Det kan også redusere målets forsvar.
+attacks_dark_faint_attack_description,Trekker fiende tett, så angriper uten å feile.
+attacks_dragon_dragon_rage_description,Påfører alltid 40HP i skade.
+
+-----------------
+
+attacks_electric_flash_description,Gjør fienden blind for å redusere nøyaktigheten.
 attacks_electric_thunder_description,En brutal lyn angrep som også kan forlate fiende lammet.
 attacks_electric_thunderbolt_description,et angrep som kan føre til lammelser.
 attacks_electric_thunder_punch_description,en elektrifisert slag som kan lamme fienden.
