@@ -42,54 +42,54 @@ game_message_screenshot_saved,Skjermbildet lagret som
 game_message_full_screen_on,Fullskjerm på
 game_message_full_screen_off,Fullskjerm av
 black_out_screen_1,Du har ikke flere Pokémon!
-
-------------------------------
-
-black_out_screen_2,vil du bli brakt
-black_out_screen_3,til nærmeste PokéCenter
+black_out_screen_2,Du vil du bli brakt
+black_out_screen_3,til det nærmeste PokéSenteret
 black_out_screen_4,for å hindre ytterligere skade
-black_out_screen_5,til Pokémon din.
-battle_pokemon_catch_1,Gotcha! ~
+black_out_screen_5,til dine Pokémon.
+battle_pokemon_catch_1,Gotcha!~
 battle_pokemon_catch_2,ble fanget!
-battle_pokemon_catch_3,ble data ~ lagt til Pokédex.
-battle_pokemon_catch_4,~ Det ble overført til Box
-battle_pokemon_catch_5,~ på PCen.
-battle_pokeball_throw,brukte <playername> en
-battle_pokemon_info_back,Back
+battle_pokemon_catch_3,data ble~lagt til Pokédex.
+battle_pokemon_catch_4,~Det ble overført til Box
+battle_pokemon_catch_5,~på PC'en.
+battle_pokeball_throw,<playername> brukte en
+battle_pokemon_info_back,Tilbake
 donation_screen_title,Donators:
 apricorns_screen_title,Apricorns
-apricorns_screen_busy_1,jeg produsere baller i øyeblikket.
+apricorns_screen_busy_1,Jeg produserer Pokéballer akuratt nå.
 apricorns_screen_busy_2,Kom tilbake senere.
-apricorns_screen_choose,vennligst velg Apricorns jeg bør ta for å produsere Pokéballs.
-apricorns_screen_ready,jeg er klar produserende Pokéballs. Her er resultatet av arbeidet mitt:
-item_detail_screen_give,Give
+apricorns_screen_choose,Vennligst velg Apricorns jeg bør ta for å produsere Pokéballer.
+apricorns_screen_ready,Jeg er klar for å produsere Pokéballer. Her er resultatet av arbeidet mitt:
+item_detail_screen_give,Gi
 item_detail_screen_use,Bruk
-item_detail_screen_trash,Trash
-item_detail_screen_back,Back
-give_item_to_pokemon1,Ga
-give_item_to_pokemon2,til ~
-give_item_to_pokemon3,~ og sette
-give_item_to_pokemon4,~ tilbake til varelageret.
-pokedex_sidebar_seen,sett:
-pokedex_sidebar_obtained,oppnås:
-pokedex_sidebar_rare,Sjeldne:
+item_detail_screen_trash,Forkast
+item_detail_screen_back,Tilbake
+give_item_to_pokemon1,Gitt
+give_item_to_pokemon2,til~
+give_item_to_pokemon3,~og satt
+give_item_to_pokemon4,~tilbake til varelageret.
+pokedex_sidebar_seen,Sett:
+pokedex_sidebar_obtained,Innhentet:
+pokedex_sidebar_rare,Sjeldenhet:
 game_menu_pokedex,Pokédex
 game_menu_party,Pokémon
-game_menu_bag,Bag
+game_menu_bag,Sekk
 game_menu_trainer_card,<playername>
 game_menu_save,Lagre
 game_menu_options,Alternativer
 game_menu_exit,Exit Meny
-intro_line_1,Hello! ~ Beklager å holde ~ du venter! Velkommen til verden ~ Pokémon! * Mitt navn er eik. ~ Folk kaller meg ~ Pokémon Prof * Denne verden er bebodd ~ av skapninger som ~ vi kaller
-intro_line_2,Pokémon. * Mennesker og Pokémon lever ~ sammen ved å støtte ~ hverandre. ~ Noen spiller med ~ Pokémon,~ noen kamp med dem. * Men vi vet ikke ~ alt om ~ Pokémon ennå. ~ Det er fortsatt mange ~ mysterier å løse. * Det er derfor jeg studere ~ Pokémon hver dag. * Nå,hva gjorde du ~ at du het?
-intro_line_3,~ er du klar? * Din egen ~ Pokémon historien handler om ~ å utfolde seg. * Du vil møte gøy ~ tider og tøffe ~ utfordringer. ~ En verden av drømmer og ~ opplevelser med Pokémon ~ venter! * La oss gå! * Jeg skal se ~ du senere!
+intro_line_1,Hei!~Beklager å holde~deg ventende! Velkommen til~Pokémon verdenen!*Mitt navn er Oak.~Folk kaller meg~Pokémon Prof.*Denne verdenen er bebodd~av skapninger som~vi kaller
+intro_line_2,Pokémon.*Mennesker og Pokémon lever~sammen ved å støtte~hverandre.~Noen spiller med~Pokémon,~noen kjemper med dem.*Men vi vet ikke~alt om~Pokémon ennå.~Det er fortsatt mange~mysterier å løse.*Det er derfor jeg studerer~Pokémon hver dag.*Nå, hva var det du~sa at du het?
+intro_line_3,~er du klar?*Din egen~Pokémon historie kommer snart til~å utfolde seg.*Du vil møte fine~tider og tøffe~utfordringer.~En verden av drømmer og~opplevelser med Pokémon~venter!*La oss gå!*Jeg ser~deg senere!
 intro_name_prompt,Ditt navn:
-intro_skin_prompt,Velg skin:
-intro_bad_name,er dette navnet er for kort
-intro_reaction_weird,* Hm det er en ~ rare navn.
-intro_reaction_known,* Hm jeg er sikker på at jeg ~ hørt dette navnet før.
-intro_reaction_same,Hey vi fikk ~ samme navn. * Mitt navn er også ~
-intro_reaction_base,Høyre! Så navnet ditt er ~
+intro_skin_prompt,Velg person:
+intro_bad_name,Dette navnet er for kort
+intro_reaction_weird,*Hm det der er et~rart navn.
+intro_reaction_known,*Hm jeg er sikker på at jeg~hørt dette navnet før.
+intro_reaction_same,Hei vi fikk~samme navn.*Mitt navn er også~
+intro_reaction_base,Okei! Så navnet ditt er~
+
+---------------------------------
+
 options_screen_title,Alternativer
 options_screen_not_saved_warning er alternativer som ikke lagret ennå,bla ned og velg "Lagre alternativer."
 options_screen_textspeed,TextSpeed
@@ -145,15 +145,15 @@ trade_screen_cannot_trade,ikke kan omsettes.
 trade_screen_drop_item,Drop objektet her.
 trainer_card_screen_title,Trainer-kort
 trainer_card_collected_badges,Innsamlede merker
-battle_message_sent_out sendte ut ~
-battle_message_sent_out_switch_1,handler om ~ å sende ut ~
-battle_message_sent_out_switch_2,~ Vil du bytte ~ dine Pokémon?
+battle_message_sent_out sendte ut~
+battle_message_sent_out_switch_1,handler om~å sende ut~
+battle_message_sent_out_switch_2,~ Vil du bytte~dine Pokémon?
 battle_message_choose_pokemon velger Pokémon
 battle_message_wild_encounter_1,En vill
 battle_message_wild_encounter_2,~ dukket opp!
-battle_message_trainer_encounter ønsker ~ til kamp!
+battle_message_trainer_encounter ønsker~til kamp!
 battle_message_pokemon_go,Go!
-battle_message_trainer_defeat_1 ble ~ beseiret! *
+battle_message_trainer_defeat_1 ble~beseiret! *
 battle_message_trainer_defeat_2,fikk
 battle_message_trainer_defeat_3,~ PokéDollar for å vinne!
 battle_message_pokemon_return_1,Kom tilbake,~
@@ -162,25 +162,25 @@ battle_message_pokemon_return_3_1,God jobb
 battle_message_pokemon_return_3_2,~ Kom tilbake.
 battle_message_pokemon_return_4_1,du har vært fantastisk,~
 battle_message_pokemon_return_4_2,~ Nå kommer vi tilbake!
-battle_message_pokemon_return_5,Well done. ~ Nå kommer vi tilbake.
+battle_message_pokemon_return_5,Well done.~Nå kommer vi tilbake.
 battle_message_pokemon_return_6,Kom tilbake,~
 battle_message_run_success,slapp unna trygt!
 battle_message_run_fail_trainer,kan ikke løpe fra en trener kamp!
 battle_message_run_fail,mislykkes Kjører.
-battle_message_catch_fail_trainer,Hey! ~ Ikke være en tyv!
-battle_message_item_disallowed,ikke kan brukes ~ i kamper!
+battle_message_catch_fail_trainer,Hey!~Ikke være en tyv!
+battle_message_item_disallowed,ikke kan brukes~i kamper!
 battle_message_use,Bruk
 battle_message_used,Brukte
-battle_message_already_in_battle,er allerede ~ i kampen!
+battle_message_already_in_battle,er allerede~i kampen!
 battle_message_is_fainted er besvimte!
 battle_message_fainted,besvimte!
 battle_message_gained fikk
-battle_message_no_pp har ~ ingen PP venstre! *
-battle_message_sleep,er rask ~ sover.
+battle_message_no_pp har~ingen PP venstre! *
+battle_message_sleep,er rask~sover.
 battle_message_wake,våknet opp!
-battle_message_paralyzed,er lammet! ~ Det kan ikke flytte!
-battle_message_frozen,er ingen ~ lenger frosset!
-battle_message_thaw,er frosset ~ solid!
+battle_message_paralyzed,er lammet!~Det kan ikke flytte!
+battle_message_frozen,er ingen~lenger frosset!
+battle_message_thaw,er frosset~solid!
 battle_message_stat_up,~ litt rose!
 battle_message_stat_down,~ litt falt!
 battle_message_stat_up_sharp,~ kraftig steg!
@@ -191,9 +191,9 @@ battle_message_super_effective,det er super effektiv!
 battle_message_not_effective,det er ikke veldig effektivt ...
 battle_message_immune,har det ingen effekt ...
 battle_message_miss,angrep savnet!
-battle_message_hurt_burn,ble skadet ~ av brenne sin!
-battle_message_hurt_poison,ble skadet ~ av gift!
-battle_message_reached_level nådde ~ nivå
+battle_message_hurt_burn,ble skadet~av brenne sin!
+battle_message_hurt_poison,ble skadet~av gift!
+battle_message_reached_level nådde~nivå
 battle_message_learned,lærte
 battle_message_status_effect_taken,er nå
 battle_message_status_effect_present,er allerede
@@ -261,7 +261,7 @@ attacks_normal_double_team_description,øker evasiveness.
 attacks_normal_egg_bomb_description,egg er kastet på fienden.
 attacks_normal_flail_description,flails brukeren om aimlessly å angripe. Det blir kraftigere jo mindre HP brukeren har.
 attacks_normal_focus_energy_description,Hever den kritiske hit ratio.
-attacks_normal_focus_energy_success,blir ~ pumpet!
+attacks_normal_focus_energy_success,blir~pumpet!
 attacks_normal_focus_energy_fail,men det mislyktes!
 attacks_normal_glare_description,et trekk som kan føre til lammelser.
 attacks_normal_growl_description,Reduserer fiende angrep.
