@@ -1,0 +1,330 @@
+﻿menus_continue,Fortsett
+menus_load_game,Siste spill
+menus_new_game,Nytt spill
+menus_quit_game,Avslutt spill
+menus_name,Navn
+menus_badges,Medaljer
+menus_badge,Medalje
+menus_location,Lokasjon
+menus_money,Penger
+menus_time,Tid
+menus_points,Poeng
+menus_delete,Slett
+menus_cancel,Avbryt
+menus_pokedex,Pokédex
+menus_ok,Ok
+menus_yes,Ja
+menus_no,No
+menus_clear,Fjern
+menus_back,Tilbake
+menus_load,Last
+menus_back_to_game,Tilbake til spillet
+menus_disconnect,Koble fra
+menus_quit_to_menu,Avslutt til menyen
+menus_item,Element
+menus_items,Elementer:
+menus_summary,Sammendrag
+menus_switch,Bryter
+menus_give,Gi
+menus_take,Ta
+menus_close_instructions,Trykk E for å lukke
+menus_back_instructions,Trykk E for å gå tilbake
+menus_bag,Sekk
+menus_empty,Tom
+menus_description,Beskrivelse:
+menus_generation,Generasjon
+menus_version,Versjon
+pause_menu_title,Spill menyen
+main_menu_delete_confirm,Vil du virkelig slette det lagrede spillet
+game_message_close_connection,Du lukket flerspiller spillet.
+game_message_disconnect,Koblet deg fra verten.
+game_message_screenshot_saved,Skjermbildet lagret som
+game_message_full_screen_on,Fullskjerm på
+game_message_full_screen_off,Fullskjerm av
+black_out_screen_1,Du har ikke flere Pokémon!
+
+------------------------------
+
+black_out_screen_2,vil du bli brakt
+black_out_screen_3,til nærmeste PokéCenter
+black_out_screen_4,for å hindre ytterligere skade
+black_out_screen_5,til Pokémon din.
+battle_pokemon_catch_1,Gotcha! ~
+battle_pokemon_catch_2,ble fanget!
+battle_pokemon_catch_3,ble data ~ lagt til Pokédex.
+battle_pokemon_catch_4,~ Det ble overført til Box
+battle_pokemon_catch_5,~ på PCen.
+battle_pokeball_throw,brukte <playername> en
+battle_pokemon_info_back,Back
+donation_screen_title,Donators:
+apricorns_screen_title,Apricorns
+apricorns_screen_busy_1,jeg produsere baller i øyeblikket.
+apricorns_screen_busy_2,Kom tilbake senere.
+apricorns_screen_choose,vennligst velg Apricorns jeg bør ta for å produsere Pokéballs.
+apricorns_screen_ready,jeg er klar produserende Pokéballs. Her er resultatet av arbeidet mitt:
+item_detail_screen_give,Give
+item_detail_screen_use,Bruk
+item_detail_screen_trash,Trash
+item_detail_screen_back,Back
+give_item_to_pokemon1,Ga
+give_item_to_pokemon2,til ~
+give_item_to_pokemon3,~ og sette
+give_item_to_pokemon4,~ tilbake til varelageret.
+pokedex_sidebar_seen,sett:
+pokedex_sidebar_obtained,oppnås:
+pokedex_sidebar_rare,Sjeldne:
+game_menu_pokedex,Pokédex
+game_menu_party,Pokémon
+game_menu_bag,Bag
+game_menu_trainer_card,<playername>
+game_menu_save,Lagre
+game_menu_options,Alternativer
+game_menu_exit,Exit Meny
+intro_line_1,Hello! ~ Beklager å holde ~ du venter! Velkommen til verden ~ Pokémon! * Mitt navn er eik. ~ Folk kaller meg ~ Pokémon Prof * Denne verden er bebodd ~ av skapninger som ~ vi kaller
+intro_line_2,Pokémon. * Mennesker og Pokémon lever ~ sammen ved å støtte ~ hverandre. ~ Noen spiller med ~ Pokémon,~ noen kamp med dem. * Men vi vet ikke ~ alt om ~ Pokémon ennå. ~ Det er fortsatt mange ~ mysterier å løse. * Det er derfor jeg studere ~ Pokémon hver dag. * Nå,hva gjorde du ~ at du het?
+intro_line_3,~ er du klar? * Din egen ~ Pokémon historien handler om ~ å utfolde seg. * Du vil møte gøy ~ tider og tøffe ~ utfordringer. ~ En verden av drømmer og ~ opplevelser med Pokémon ~ venter! * La oss gå! * Jeg skal se ~ du senere!
+intro_name_prompt,Ditt navn:
+intro_skin_prompt,Velg skin:
+intro_bad_name,er dette navnet er for kort
+intro_reaction_weird,* Hm det er en ~ rare navn.
+intro_reaction_known,* Hm jeg er sikker på at jeg ~ hørt dette navnet før.
+intro_reaction_same,Hey vi fikk ~ samme navn. * Mitt navn er også ~
+intro_reaction_base,Høyre! Så navnet ditt er ~
+options_screen_title,Alternativer
+options_screen_not_saved_warning er alternativer som ikke lagret ennå,bla ned og velg "Lagre alternativer."
+options_screen_textspeed,TextSpeed
+options_screen_textspeed_description_1,Hastigheten tekstboksen dukker opp og
+options_screen_textspeed_description_2,viser teksten.
+options_screen_fov,FOV
+options_screen_fov_description_1,The synsfelt. Jo høyere verdien er,
+options_screen_fov_description_2,jo mer kan du se.
+options_screen_fov_description_3,Advarsel: For stor verdi kan føre til forsinkelser i større kart.
+options_screen_mousespeed,MouseSpeed
+options_screen_mousespeed_description_1 setter Mousespeed hastigheten der
+options_screen_mousespeed_description_2 kan mus rotere visningen.
+options_screen_volume,Volume
+options_screen_volume_description_1,Volumet av bakgrunnsmusikken.
+options_screen_volume_description_2,dette er innstillinger for alle unntatt stater.
+options_screen_renderdistance_tiny,Tiny
+options_screen_renderdistance_short,Short
+options_screen_renderdistance_normal,Normal
+options_screen_renderdistance_far,Far
+options_screen_renderdistance_extreme,Extreme
+options_screen_renderdistance,Render Avstand
+options_screen_renderdistance_description_1,The renderdistance bestemmer,
+options_screen_renderdistance_description_2,hvor langt du kan se.
+options_screen_renderdistance_description_3,ved å slå dette ned,kan du forbedre FPS.
+options_screen_graphicsstyle_fast,Fast
+options_screen_graphicsstyle_fancy,Fancy
+options_screen_graphicsstyle,Grafikk
+options_screen_graphicsstyle_description_1,Påvirker hvis noen objekter gjengis
+options_screen_graphicsstyle_description_2,eller ikke. Ved å slå dette ned,kan du forbedre FPS.
+options_screen_graphicsstyle_description_3,dette er innstillinger for alle unntatt stater.
+options_screen_showbattleanimations,Animasjoner i kamp
+options_screen_showbattleanimations_description,Bestemmer hvis spillet viser kampanimasjoner.
+options_screen_difficulty,Vanskelighetsgrad
+options_screen_difficulty_description_1,Vanskelighetsgrad modus
+options_screen_difficulty_description_2,Setter vanskelighetsgrad.
+options_screen_resetoptions,Tilbakestill alternativer.
+options_screen_resetoptions_description,Tilbakestill alle valg.
+options_screen_saveoptions,Spar alternativer.
+options_screen_saveoptions_description,Redd alternativene og lukke menyen.
+options_screen_closeoptions,Close-menyen.
+options_screen_closeoptions_description_1,Lukk menyen og ikke lagre
+options_screen_closeoptions_description_2,endringene.
+options_screen_decription_title,Beskrivelse
+save_screen_saved,lagret spillet.
+save_screen_prompt,Vil du lagre spillet?
+trade_screen_buy_for,Kjøp for
+trade_screen_sell_for,Selg for
+trade_screen_your_money,Dine Penger
+trade_screen_price,Prisen
+trade_screen_buy,Kjøp
+trade_screen_sell,Selg
+trade_screen_cannot_trade,ikke kan omsettes.
+trade_screen_drop_item,Drop objektet her.
+trainer_card_screen_title,Trainer-kort
+trainer_card_collected_badges,Innsamlede merker
+battle_message_sent_out sendte ut ~
+battle_message_sent_out_switch_1,handler om ~ å sende ut ~
+battle_message_sent_out_switch_2,~ Vil du bytte ~ dine Pokémon?
+battle_message_choose_pokemon velger Pokémon
+battle_message_wild_encounter_1,En vill
+battle_message_wild_encounter_2,~ dukket opp!
+battle_message_trainer_encounter ønsker ~ til kamp!
+battle_message_pokemon_go,Go!
+battle_message_trainer_defeat_1 ble ~ beseiret! *
+battle_message_trainer_defeat_2,fikk
+battle_message_trainer_defeat_3,~ PokéDollar for å vinne!
+battle_message_pokemon_return_1,Kom tilbake,~
+battle_message_pokemon_return_2,god jobb,~
+battle_message_pokemon_return_3_1,God jobb
+battle_message_pokemon_return_3_2,~ Kom tilbake.
+battle_message_pokemon_return_4_1,du har vært fantastisk,~
+battle_message_pokemon_return_4_2,~ Nå kommer vi tilbake!
+battle_message_pokemon_return_5,Well done. ~ Nå kommer vi tilbake.
+battle_message_pokemon_return_6,Kom tilbake,~
+battle_message_run_success,slapp unna trygt!
+battle_message_run_fail_trainer,kan ikke løpe fra en trener kamp!
+battle_message_run_fail,mislykkes Kjører.
+battle_message_catch_fail_trainer,Hey! ~ Ikke være en tyv!
+battle_message_item_disallowed,ikke kan brukes ~ i kamper!
+battle_message_use,Bruk
+battle_message_used,Brukte
+battle_message_already_in_battle,er allerede ~ i kampen!
+battle_message_is_fainted er besvimte!
+battle_message_fainted,besvimte!
+battle_message_gained fikk
+battle_message_no_pp har ~ ingen PP venstre! *
+battle_message_sleep,er rask ~ sover.
+battle_message_wake,våknet opp!
+battle_message_paralyzed,er lammet! ~ Det kan ikke flytte!
+battle_message_frozen,er ingen ~ lenger frosset!
+battle_message_thaw,er frosset ~ solid!
+battle_message_stat_up,~ litt rose!
+battle_message_stat_down,~ litt falt!
+battle_message_stat_up_sharp,~ kraftig steg!
+battle_message_stat_down_sharp,~ kraftig falt!
+battle_message_effect_failed,men det mislyktes.
+battle_message_crit,En kritisk hit!
+battle_message_super_effective,det er super effektiv!
+battle_message_not_effective,det er ikke veldig effektivt ...
+battle_message_immune,har det ingen effekt ...
+battle_message_miss,angrep savnet!
+battle_message_hurt_burn,ble skadet ~ av brenne sin!
+battle_message_hurt_poison,ble skadet ~ av gift!
+battle_message_reached_level nådde ~ nivå
+battle_message_learned,lærte
+battle_message_status_effect_taken,er nå
+battle_message_status_effect_present,er allerede
+battle_menu_battle,Battle
+battle_menu_bag,Bag
+battle_menu_pokemon,Pokémon
+battle_menu_run,Run
+battle_menu_move,Flytt
+battle_menu_dodge,Dodge
+abilities_overgrowth_description,Ups Grass bevege seg i en klemme.
+attacks_dark_bite_description,gjort en bite med skarpe hoggtenner.
+attacks_dark_crunch_description,brukeren crunches opp fienden med skarpe hoggtenner. Det kan også redusere målets Defense stat.
+attacks_dark_faint_attack_description,Tegner fiende tett,så streiker uten å lykkes.
+attacks_dragon_dragon_rage_description,alltid påfører 40hk skade.
+attacks_electric_flash_description,Blinds fienden for å redusere nøyaktigheten.
+attacks_electric_thunder_description,En brutal lyn angrep som også kan forlate fiende lammet.
+attacks_electric_thunderbolt_description,et angrep som kan føre til lammelser.
+attacks_electric_thunder_punch_description,en elektrifisert slag som kan lamme fienden.
+attacks_electric_thunder_shock_description,En elektrisk støt angrep som også kan forlate fiende lammet.
+attacks_electric_thunder_wave_description,et trekk som kan føre til lammelser.
+attacks_fighting_karate_chop_description,har en høy kritisk hit ratio.
+attacks_fighting_low_kick_description,A spark som påfører mer skade på tyngre fiender.
+attacks_fighting_reversal_description,An all-out angrep som blir kraftigere jo mindre HP brukeren har.
+attacks_fighting_rolling_kick_description,En rask,spinning spark.
+attacks_fighting_seismic_toss_description tilsvarer brukerens nivå skade HP.
+attacks_fire_ember_description,et angrep som kan påføre et brannsår.
+attacks_fire_fire_blast_description,et angrep som kan føre til forbrenning.
+attacks_fire_fire_punch_description,En skummel slag som kan brenne målet.
+attacks_fire_flame_charge_description,kapper Brukeren seg med flammer og angrep. Bygge opp mer makt,øker det brukerens Speed ​​stat.
+attacks_fire_flamethrower_description,En kraftig brann angrep som kan påføre et brannsår.
+attacks_fire_flame_wheel_description,gjør brukeren en heftig avgift på fienden. Det kan føre til forbrenning.
+attacks_fire_lava_plume_description,vasker Et inferno av scarlet flammer over alt Pokémon i kamp. Det kan også påføre brannskader.
+attacks_flying_aeroblast_description,en virvel av luft er skutt på fienden. Den har en høy kritisk hit ratio.
+attacks_flying_drill_peck_description,En sterk,spinning-peck angrep.
+attacks_flying_gust_description,Pisker opp en sterk vindkast.
+attacks_flying_peck_description,jabs fienden med et nebb osv.
+attacks_flying_wing_attack_description,Strikes målet med vinger.
+attacks_ghost_lick_description,Licks med en lang tunge å skade. Kan også lamme.
+attacks_ghost_night_shade_description tilsvarer brukerens nivå skade HP.
+attacks_grass_cotton_spore_description,Cotton-lignende spores klamre seg til fienden,kraftig redusere Speed ​​stat.
+attacks_grass_magical_leaf_description,sprer Brukeren nysgjerrige blader som jager fienden. Dette angrepet vil ikke gå glipp av.
+attacks_grass_razor_leaf_description,Klipper fienden med blader. Høy kritisk hit ratio.
+attacks_grass_sleep_powder_description,kan føre til at fienden til å sovne.
+attacks_grass_spore_description,et trekk som induserer søvn.
+attacks_grass_stun_spore_description,et trekk som kan lamme fienden.
+attacks_grass_synthesis_description,Gjenoppretter brukerens HP. Mengden av HP gjenvunnet varierer med været.
+attacks_grass_vine_whip_description,Pisker fienden med slanke vinstokker.
+attacks_ground_bone_club_description,klubber fienden med et bein.
+attacks_ground_earthquake_description,tøff,men ubrukelig vs flygende fiender.
+attacks_ground_mudslap_description,kaster Brukeren gjørme i målet ansikt å påføre skade og senke nøyaktighet.
+attacks_ground_sand_attack_description,Reduserer nøyaktighet ved å kaste sand.
+attacks_ice_aurora_beam_description,et angrep som kan senke Attack.
+attacks_ice_blizzard_description,et angrep som kan fryse fiende.
+attacks_ice_haze_description,Eliminerer alle statistiske endringer.
+attacks_ice_ice_beam_description,sprenger den fiende med en iskald stråle som kan fryse den.
+attacks_ice_ice_fang_description,biter Brukeren med kaldt infused hoggtenner. Det kan også gjøre fiende fryse.
+attacks_ice_ice_punch_description,er målet slo med en iskald neve. Det kan også forlate målet frosset.
+attacks_ice_powder_snow_description,sprenger den fiende med et snødekket vindkast. Kan forårsake frysing.
+attacks_normal_body_slam_description,et angrep som kan føre til lammelser.
+attacks_normal_constrict_description,constricts å påføre smerte. Kan lavere hastighet.
+attacks_normal_cut_description,kutt med klør,ljåer,etc.
+attacks_normal_defense_curl_description,øker brukerens Defense.
+attacks_normal_dizzy_punch_description,et angrep som kan føre til forvirring.
+attacks_normal_double_team_description,øker evasiveness.
+attacks_normal_egg_bomb_description,egg er kastet på fienden.
+attacks_normal_flail_description,flails brukeren om aimlessly å angripe. Det blir kraftigere jo mindre HP brukeren har.
+attacks_normal_focus_energy_description,Hever den kritiske hit ratio.
+attacks_normal_focus_energy_success,blir ~ pumpet!
+attacks_normal_focus_energy_fail,men det mislyktes!
+attacks_normal_glare_description,et trekk som kan føre til lammelser.
+attacks_normal_growl_description,Reduserer fiende angrep.
+attacks_normal_growth_description,A Normal-type trekk som øker Special Atk.
+attacks_normal_harden_description,øker brukerens Defense.
+attacks_normal_headbutt_description,stikker Brukeren hodet ut og værer rett frem.
+attacks_normal_horn_attack_description,Et angrep ved hjelp av et horn til jab.
+attacks_normal_hyper_fang_description er fienden angrepet med skarpe hoggtenner.
+attacks_normal_leer_description,Reduserer fiende forsvar.
+attacks_normal_lovely_kiss_description,kan føre til at fienden til å sovne.
+attacks_normal_mega_kick_description,En kraftig sparker angrep.
+attacks_normal_mega_punch_description,et kraftig slag kastet veldig hardt.
+attacks_normal_minimize_description,øker evasiveness.
+attacks_normal_pound_description,Pounds målet med forbena eller hale.
+attacks_normal_quick_attack_description,En ekstremt raske angrep som alltid slår først.
+attacks_normal_recover_description,Gjenoppretter HP med 1/2 brukerens maks HP.
+attacks_normal_recover_effect,HP ble gjenopprettet.
+attacks_normal_scary_face_description,skremmer med en skremmende ansikt til kraftig redusert hastighet.
+attacks_normal_scratch_description,Riper med skarpe klør.
+attacks_normal_screech_description,Avgir et skrik å betraktelig redusere fiende forsvar.
+attacks_normal_sharpen_description,Reduserer antall polygoner og øker Attack.
+attacks_normal_sing_description,kan føre til at fienden til å sovne.
+attacks_normal_slam_description,Slams fienden med en hale,vintreet,etc.
+attacks_normal_slash_description,skråstreker med klør,osv.
+attacks_normal_smoke_screen_description,Senker fiende nøyaktighet.
+attacks_normal_softboiled_description,Gjenoppretter HP med 1/2 brukerens maks HP.
+attacks_normal_sonic_boom_description,alltid påfører 20hp skade.
+attacks_normal_splash_description,har ingen effekt overhodet.
+attacks_normal_stomp_description,Stampingen fienden med en stor fot.
+attacks_normal_strength_description,En kraftig fysisk angrep.
+attacks_normal_struggle_description,bare brukes hvis alle PP er oppbrukt.
+attacks_normal_super_fang_description,Kutter FOEs HP med 1/2.
+attacks_normal_supersonic_description,Lydbølger som forårsaker forvirring.
+attacks_normal_swift_description,spray stjerne-formet stråler som aldri glipp av.
+attacks_normal_swords_dance_description,en dans som øker Attack.
+attacks_normal_tackle_description,en full-body kostnad angrep.
+attacks_normal_tail_whip_description,Senker fiende forsvar.
+attacks_normal_tri_attack_description,fyrer tre typer bjelker på en gang.
+attacks_normal_vice_grip_description,Grips med kraftige knipetang.
+attacks_poison_acid_armor_description,Liquifies brukerens kropp til kraftig heve Defense.
+attacks_poison_acid_description,et angrep som kan senke Defense.
+attacks_poison_poison_gas_description,envelops fiende i en giftig gass som kan forgifte.
+attacks_poison_poison_powder_description,sprer en giftig pulver som kan forgifte fiende.
+attacks_poison_poison_sting_description,et angrep som kan forgifte målet.
+attacks_poison_sludge_description,et angrep som kan forgifte fiende.
+attacks_poison_sludge_bomb_description,Slam slynges å påføre skade. Kan også forgifte.
+attacks_poison_smog_description,et angrep som kan forgifte fiende.
+attacks_psychic_agility_description,slapper kroppen til kraftig øke hastigheten.
+attacks_psychic_amnesia_description,hever Kraftig brukerens Spcl.Def.
+attacks_psychic_confusion_description,The fiende truffet av en svak telekinetiske kraft.
+attacks_psychic_hypnosis_description,kan sette fienden til å sove.
+attacks_psychic_kinesis_description,distraherer fiende. Kan senke nøyaktighet.
+attacks_psychic_meditate_description,øker brukerens Attack.
+attacks_psychic_psybeam_description,er en særegen ray skutt på fienden.
+attacks_psychic_psychic_description,et angrep som kan senke Special.Def.
+attacks_psychic_psywave_description,Et angrep med variabel strøm.
+attacks_rock_rock_slide_description er store steinblokker kastet.
+attacks_rock_rock_throw_description,Drops bergarter på fienden.
+attacks_water_aqua_tail_description,angriper Brukeren ved å svinge halen som om det var en ond bølge i en rasende storm.
+attacks_water_bubble_description,et angrep som kan redusere hastighet.
+attacks_water_bubble_beam_description,et angrep som kan redusere hastighet.
+attacks_water_crabhammer_description,hammer med en knipetangsmanøver.
+attacks_water_hydro_pump_description,En kraftig vann-type angrep.
+attacks_water_surf_description,Oppretter en stor bølge,krasjer så det ned på fienden.
+attacks_water_waterfall_description,en vannlevende kostnad angrep.
+attacks_water_water_gun_description,Squirts vann til å angripe.
