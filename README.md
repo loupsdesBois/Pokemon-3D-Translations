@@ -15,6 +15,6 @@ id - indonesian
 jp - japanese
 ch - chinese
 
-If you are making a correction find the language file you want and make the change the the tokens you see mistakes in then commit and push the changes.
+If you are making a correction find the language file you want and make the change to the tokens you see mistakes in then commit and push the changes.
 
 No matter what you are doing, give a detailed commit message, and say who you are on the p3d forums. 
